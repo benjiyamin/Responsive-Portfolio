@@ -79,14 +79,11 @@ img {
 }
 
 .nav-link {
-    /*float: left;*/
-    /*margin: 0 10px;*/
     padding: 0 20px;
     display: inline;
 }
 
 .nav-links >.nav-link:not(:last-child) {
-     /* styles */ 
      border-right: lightgrey;
      border-right-style: solid;
 }
@@ -141,19 +138,10 @@ img {
     clear: both;
 }
 
-/*
-.card-row {
-    overflow: auto;
-    clear: both;
-}
-*/
-
 .card {
     float: left;
     width: 50%;
-    /*margin: 10px;*/
     position: relative;
-    /*max-width: 100%;*/
 }
 
 .card-content {
